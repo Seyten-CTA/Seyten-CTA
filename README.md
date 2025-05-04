@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **Seyten-CTA/Seyten-CTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...uhmm nothing duh
 - 💬 Ask me about ...anything, whats in ur mind?
 - 📫 How to reach me: ...meet me in person
--->from.... somewhere in the world
+- from.... somewhere in the world
